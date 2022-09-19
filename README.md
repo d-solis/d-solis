@@ -5,7 +5,7 @@
 
 Hi, I'm Diego Solis, a student, Linux enthusiast and novice coder. In my spare time I like to mod game consoles, mess with linux and general computing stuff.
 
-###Skills
+### Skills
 
 I'm very Expierenced in linux and terminal based applications. Somewhat expierenced in python, rust, css and shell.
 
