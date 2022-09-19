@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello There! </h1>
   
-  👋(https://github.com/Endgamer960/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endgamer960&layout=compact&theme=merko)](https://github.com/Endgamer960/github-readme-stats)
+[![Stats](https://github.com/Endgamer960/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endgamer960&layout=compact&theme=merko)](https://github.com/Endgamer960/github-readme-stats)
 
 ![image](https://user-images.githubusercontent.com/43517199/191092149-116a9298-7539-43e9-aabe-b4a84ae7302d.png)
 Hi, I'm Diego Solis, a student, Linux enthusiast and novice coder. In my spare time I like to mod game consoles, mess with linux and general computing stuff.
