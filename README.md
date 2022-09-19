@@ -6,13 +6,10 @@
 Hi, I'm Diego Solis, a student, Linux enthusiast and novice coder. In my spare time I like to mod game consoles, mess with linux and general computing stuff.
 
 ### Skills
-
 I'm very Expierenced in linux and terminal based applications. Somewhat expierenced in python, rust, css and shell.
 
 ### Socials
-                  
 <p align="middle">
-                          
 <a href="https://discord.com/users/!End#2342" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
 <a href="https://www.github.com/Endgamer960" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
