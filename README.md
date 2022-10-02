@@ -6,12 +6,13 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
+        Hello There!
       <br>
-        I'm Rxyhn, a Student, I like Penguins and Apples, but I don't like Windows.
+        I'm Diego, a Student, I like Penguins and Apples, but I don't like Windows.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+
+
       <br>
       <b>
         ~ Rayhan Kafi Pratama ~
@@ -43,7 +44,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=Endgamer960&label=Profile+Views&color=grey" alt="profile views" /> 
   </a>
   </samp>
 </p>
