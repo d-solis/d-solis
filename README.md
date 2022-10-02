@@ -1,4 +1,3 @@
-  <!-- Rxyhn's Aesthetic GitHub Profile -->
 <div align="justify">
 
 <!-- Profile -->
@@ -8,8 +7,8 @@
       <b>
         Hello There!
       <br>
-        I'm Diego, a Student, I like Penguins and Apples, but I don't like Windows.
-                                     -Diego Solis-Moreno
+        I'm Diego, a HighSchool Student, and shitty graphic designer also I LOVE LINUX and FUCKING HATE WINDOWS.
+
       </b>
     </samp>
   </p>
@@ -25,10 +24,9 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://instagram.com/rayhankafipratama">instagram</a>]
-    [<a href="https://matrix.to/#/@rxyhn:matrix.org">matrix</a>]
-    [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+    [<a href="https://steamcommunity.com/id/endgamer960/">steam</a>]
+    [<a href="https://discordapp.com/users/!End#2342">discord</a>]
+    [<a href="mailto:smdiego110@gmail.com">e-mail</a>]
   </samp>
 </p>
 
