@@ -9,13 +9,7 @@
         Hello There!
       <br>
         I'm Diego, a Student, I like Penguins and Apples, but I don't like Windows.
-      </b>
-      <br>
-
-
-      <br>
-      <b>
-        ~ Rayhan Kafi Pratama ~
+                                     -Diego Solis-Moreno
       </b>
     </samp>
   </p>
