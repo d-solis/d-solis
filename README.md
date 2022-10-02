@@ -47,7 +47,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=rxyhn&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=Endgamer960&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
     </tr>
   </table>
 </div>
@@ -56,8 +56,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rxyhn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Endgamer960&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endgamer960&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
     </tr>
   </table>
 </div>
