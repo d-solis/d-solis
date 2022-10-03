@@ -9,8 +9,6 @@
       <br>
         I'm Diego, a HighSchool Student, and shizzy graphic designer also I LOVE LINUX and F***ING HATE WINDOWS.
 
-        <p align="right"><strong><samp>」</samp></strong></p>
-
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
