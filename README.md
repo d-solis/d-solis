@@ -8,7 +8,7 @@
         Hello There!
       <br>
         I'm Diego, a HighSchool Student, and shizzy graphic designer also I LOVE LINUX and F***ING HATE WINDOWS.
-<p align="right"><strong><samp>」</samp></strong></p>
+<p align="center"><strong><samp>」</samp></strong></p>
 ![MedicalEuphoricAlbertosaurus-max-1mb](https://user-images.githubusercontent.com/43517199/193628071-4239d53a-571a-4076-bce0-32a6346eb656.gif)
 
 <p align="right"><strong><samp>」</samp></strong></p>
