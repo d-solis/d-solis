@@ -7,7 +7,7 @@
       <b>
         Hello There!
       <br>
-        I'm Diego, a HighSchool Student, Graphic Designer (Not-A-Good-One-Tho), Debater, and programer. UNIX operating systems just hit different.
+        I'm Diego, a HighSchool Student, Graphic Designer (Not-A-Good-One-Tho), Debater, and programer. Also UNIX operating systems just hit different.
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
