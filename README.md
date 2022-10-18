@@ -7,7 +7,7 @@
       <b>
         Hello There!
       <br>
-        I'm Diego, a HighSchool Student, and shizzy graphic designer also I LOVE LINUX and F***ING HATE WINDOWS.
+        I'm Diego, a HighSchool Student,Graphic Designer (Not-A-Good-One-Tho), Debater, and programer. UNIX > (anything else)
 
 <p align="right"><strong><samp>」</samp></strong></p>
 
