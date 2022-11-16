@@ -7,7 +7,7 @@
       <b>
         Hello There!
       <br>
-        I'm Diego, a HighSchool Student, Graphic Designer (Not-A-Good-One-Tho), Debater, and programer. Also UNIX operating systems just hit different.
+        Hello, I'm Diego, My main focus at the moment is to learn as many scrpting languages I can to better improve myself. I also like tinker with UNIX systems.
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
@@ -23,6 +23,7 @@
     [<a href="https://steamcommunity.com/id/endgamer960/">steam</a>]
     [<a href="https://discordapp.com/users/!End#2342">discord</a>]
     [<a href="mailto:smdiego110@gmail.com">e-mail</a>]
+    [<a href="">+1 (913) 208 6414</a>]
   </samp>
 </p>
 
