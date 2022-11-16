@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
       <b>
-        ![image](https://github.com/d-solis/d-solis/blob/8360486e7050210494d5214d158d37ed106fa987/assets/devcardgraphic.png)
+        ![image](https://raw.githubusercontent.com/d-solis/d-solis/main/assets/devcardgraphic.png)
       <b>
         Hello There!
       <br>
