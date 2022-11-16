@@ -5,6 +5,8 @@
   <p align="center">
     <samp>
       <b>
+        https://github.com/d-solis/d-solis/blob/8360486e7050210494d5214d158d37ed106fa987/assets/devcardgraphic.png
+      <b>
         Hello There!
       <br>
         Hello, I'm Diego, My main focus at the moment is to learn as many scrpting languages I can to better improve myself. I also like tinker with UNIX systems.
