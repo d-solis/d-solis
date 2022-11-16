@@ -4,7 +4,6 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
-      <b>
         ![image](https://raw.githubusercontent.com/d-solis/d-solis/main/assets/devcardgraphic.png)
       <b>
         Hello There!
