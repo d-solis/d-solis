@@ -1,7 +1,6 @@
 <div align="justify">
 
 <!-- Profile -->
-  ![image](https://raw.githubusercontent.com/d-solis/d-solis/main/assets/devcardgraphic.png)
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
       <b>
