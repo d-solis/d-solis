@@ -6,7 +6,7 @@
       <b>
         Hello There!
       <br>
-        Hello, I'm Diego, My main focus at the moment is to learn as many scripting languages I can to better improve myself. I also like tinker with UNIX systems.
+        Hello, I'm Diego, My main focus at the moment is to learn as many scripting languages I can to better improve myself. I also like to tinker with UNIX systems.
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
