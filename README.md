@@ -19,8 +19,8 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://steamcommunity.com/id/endgamer960/">steam</a>]
-    [<a href="https://discordapp.com/users/!End#2342">discord</a>]
+    [<a href="https://steamcommunity.com/id/--end--/">steam</a>]
+    [<a href="https://discordapp.com/users/Void.e">discord</a>]
     [<a href="mailto:smdiego110@gmail.com">e-mail</a>]
     [<a href="">+1 (913) 208 6414</a>]
   </samp>
