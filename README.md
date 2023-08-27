@@ -4,9 +4,10 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
       <b>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000000&center=true&vCenter=true&width=435&lines=Hello+There!" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&center=true&vCenter=true&repeat=false&width=435&lines=Hello+There!" alt="Typing SVG" /></a>
       <br>
         My name is Diego, and I'm a massive dipshit who writes code as a hobby.
+            
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
@@ -15,6 +16,9 @@
 <summary><samp><b>More Info</b></samp></summary>
 
 <h2></h2><br>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8500&pause=2500&color=8CF7F0&center=true&vCenter=true&width=1500&height=150&lines=%22We+Shouldn't+Fear+Change+Itself%2C+But+Only+Who+We+Might+Change+Into.%22;%22Sometimes+You+Have+To+Become+A+Monster+To+Stay+Human.%22;%E2%80%9CThe+right+man+in+the+wrong+place+makes+all+the+difference+in+the+world.%E2%80%9D;%22Had+to+be+me.+Someone+else+might+have+gotten+it+wrong.%22;%22People+don't+forget%2C+nothing+gets+forgiven.%22;%22War+is+where+the+young+and+stupid+are+tricked+by+the+old+and+bitter+into+killing+each+other.%22;%22Standing+on+immobile+platforms+is+one+of+my+top+three+favorite+pastimes!+Right+behind+dancing+and+crying.%22;%22A+man+chooses%2C+a+slave+obeys.%22" alt="Typing SVG" /></a>
+</p>
 
 <!-- Contact Me -->
 <p align="center">
@@ -55,6 +59,14 @@
     </tr>
   </table>
 </div>
+
+<h2></h2><br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,javascript,python,lua,html,css" />
+  </a>
+</p>
 
 </details>
 </div>
