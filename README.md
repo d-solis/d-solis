@@ -4,9 +4,9 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
       <b>
-        Hello There!
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000000&center=true&vCenter=true&width=435&lines=Hello+There!" alt="Typing SVG" /></a>
       <br>
-        Hello, I'm Diego, My main focus at the moment is to learn as many scripting languages I can to better improve myself. I also like to tinker with UNIX systems.
+        My name is Diego, and I'm a massive dipshit who writes code as a hobby.
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
