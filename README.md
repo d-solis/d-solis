@@ -6,7 +6,7 @@
       <b>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&center=true&vCenter=true&repeat=false&width=435&lines=Hello+There!" alt="Typing SVG" /></a>
       <br>
-        My name is Diego but I go by my last name Solis,  I use github to host code and static websites for my projects.
+        My name is Diego but I go by my last name Solis,  I am an entrepreneur and use github to host code and static websites for my projects.
             
 <p align="right"><strong><samp>」</samp></strong></p>
 
