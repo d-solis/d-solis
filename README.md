@@ -41,7 +41,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=d-solis&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=shadow_blue"></a></td>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=d-solis&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=onedark"></a></td>
     </tr>
   </table>
 </div>
