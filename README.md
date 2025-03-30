@@ -21,7 +21,6 @@
   <samp>
     [<a href="https://d-solis.github.io/web">website</a>]
     [<a href="mailto:smdiego110@gmail.com">e-mail</a>]
-    [<a href="">+1 (913) 208 6414</a>]
     [<a href="https://www.linkedin.com/in/diego-solis-70b3a1336/">linkedin</a>]
   </samp>
 </p>
